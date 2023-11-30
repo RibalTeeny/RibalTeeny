@@ -2,7 +2,7 @@
 
 Hey there! 👨‍💻 I'm a passionate AI master's student at Ecole Polytechnique, diving deep into the realms of artificial intelligence. 🚀
 
-## 🤖 About Me
+## 📝 About Me
 
 - 🎓 Master's degree in AI at Ecole Polytechnique.
 - 💡 Expertise in Convolutional Neural Networks (CNN), Diffusion Models, Graph Neural Networks (GNNs), and Reinforcement Learning (RL).
