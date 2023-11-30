@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hey there! 👨‍💻 I'm a passionate AI master's student at Ecole Polytechnique, diving deep into the realms of artificial intelligence. 🚀
+Passionate AI student with a can-do attitude.
 
 ## 📝 About Me
 
