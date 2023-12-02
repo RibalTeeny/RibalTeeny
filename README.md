@@ -34,4 +34,6 @@ Passionate AI student with a can-do attitude.
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
 <a href="https://kedro.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kedro-org/kedro/develop/static/img/kedro_banner.png" alt="Kedro" width="90" height="60"/> </a>
 </p>
-Thanks for dropping by! 🚀✨ Open to contributions, feedback, and discussions. 
+
+
+#### Thanks for dropping by! 🚀 Open to contributions, feedback, and discussions. 
