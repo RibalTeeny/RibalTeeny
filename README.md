@@ -1,4 +1,4 @@
-### Hellowz
+### Hello
 
 Passionate AI Engineer with a can-do attitude.
 
@@ -14,7 +14,7 @@ Passionate AI Engineer with a can-do attitude.
 - 🧠 Direct paper implementations with some explanations
 - 🕹️ Other projects related to computer graphics and video games
 
-## 👥 Connect wiz me
+## 👥 Social
 <p align="center">
 <a href="https://linkedin.com/in/ribal-teeny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ribal-teeny" height="30" width="40" /></a>
 <a href="https://fb.com/ribal.teeny/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ribal teeny" height="30" width="40" /></a>
