@@ -38,5 +38,4 @@ Passionate AI Engineer with a can-do attitude.
 </p>
 
 
-#### Thanks for dropping by! 
 #### 🚀 Open to contributions, feedback, and discussions. 
